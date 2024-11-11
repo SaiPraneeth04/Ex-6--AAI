@@ -1,5 +1,5 @@
-<H3>NAME: Harshavardhan</H3>
-<H3>REGISTER NO:212222240114</H3>
+<H3>NAME: Sai Praneeth K</H3>
+<H3>REGISTER NO:212222230067</H3>
 <H3>EX.NO:6</H3>
 <H3>DATE: </H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
